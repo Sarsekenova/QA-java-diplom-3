@@ -8,7 +8,6 @@ import pageobject.LoginPage;
 import pageobject.ProfilePage;
 import pageobject.RegisterPage;
 import pageobject.StartPage;
-
 import static org.junit.Assert.assertEquals;
 
 public class UserTest {
